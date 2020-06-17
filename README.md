@@ -14,4 +14,4 @@ Atualmente trabalho como Engenheiro de Software na Dasa, além de atuar como pro
 
 - Link do código no Sandbox [aqui](https://codesandbox.io/s/webinar-music-player-js-starter-code-h1f0q?file=/src/index.js)
 - Diretório no GitHub [aqui](https://github.com/seralterego/ironhack-musicplayer)
-- Link da aplicação [aqui]()
+- Link da aplicação [aqui](https://seralterego.github.io/ironhack-musicplayer/)
