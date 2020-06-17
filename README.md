@@ -1,5 +1,5 @@
 # Webinar - Crie um player de musica com JavaScript 📻
-![Capa](./prints/playerJS001.png)
+![Capa](./src/playerJS001.png)
 
 Created with CodeSandbox
 
